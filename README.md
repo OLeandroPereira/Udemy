@@ -15,7 +15,7 @@
 <br>
 <h1>
     <div>
-        <a style="font-size: 18px" href="https://pizzaria-udemy.netlify.app/" target="_blank"> Veja o Site</a>
+        <a style="font-size: 10px" href="https://pizzaria-udemy.netlify.app/" target="_blank"> Veja o Site</a>
     </div>
 </h1>
 
@@ -36,6 +36,7 @@ Este projeto consiste em uma landing page bem simples para uma Pizzaria, _Pizzar
 * Trabalhar com diferentes formatos de cores (hexadecimal, rgb, rgba);
 * Alinhamento de textos e elementos com CSS;
 * Posicionamento de elementos com CSS utilizando a propriedade position fixed.
+* Media Query para ajuste e adequação dos elementos na tela de aparelhos mobile. 
 
 <br>
 
